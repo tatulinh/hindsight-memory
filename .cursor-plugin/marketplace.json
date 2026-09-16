@@ -1,0 +1,16 @@
+{
+  "name": "hindsight-memory",
+  "owner": {
+    "name": "mento"
+  },
+  "metadata": {
+    "description": "Local Hindsight Memory plugin for BCHQS Phường Trung Thành workspace",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "hindsight-memory",
+      "description": "Automatic long-term memory for Cursor via Hindsight"
+    }
+  ]
+}
